@@ -66,7 +66,7 @@ The dashboard includes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/genz-showoff-culture.git
+git clone (https://github.com/Sharit789/Gen-Z-show-off-Culture)
 cd genz-showoff-culture
 ```
 
